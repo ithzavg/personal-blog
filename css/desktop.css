@@ -1,0 +1,20 @@
+body{
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+.header{
+    padding: 10px;
+    margin-top: 20%;
+}
+
+.header__img-container{
+    display: flex;
+    justify-content: center;
+}
+.header__profile{
+    width: 450px;
+}
+
+.social-icons{
+    width: 7%;
+}
